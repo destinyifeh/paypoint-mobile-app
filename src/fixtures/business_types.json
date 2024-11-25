@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Pharmacy"
+  },
+  {
+    "id": 2,
+    "name": "Super Market"
+  },
+  {
+    "id": 3,
+    "name": "Business Center"
+  },
+  {
+    "id": 4,
+    "name": "Others"
+  }
+]

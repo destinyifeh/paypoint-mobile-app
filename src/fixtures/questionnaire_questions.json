@@ -1,0 +1,34 @@
+[
+  {
+    "question": "Have You Met Target?",
+    "options": [
+      "Yes, definitely!",
+      "No, not really..."
+    ]
+  },
+  {
+    "question": "Actual Transactions Vs Target?",
+    "options": [
+      "Above Expectation",
+      "Met Expectation",
+      "Below Expectation"
+    ]
+  },
+  {
+    "question": "What are the reasons for not meeting Target?",
+    "options": [
+      "Network Issues",
+      "Lack of float",
+      "Lack of awareness",
+      "Others"
+    ]
+  },
+  {
+    "question": "What necessary Action was taken?",
+    "options": [
+      "Educated",
+      "Maintained",
+      "Others"
+    ]
+  }
+]

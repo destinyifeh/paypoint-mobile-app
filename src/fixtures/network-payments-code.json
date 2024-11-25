@@ -1,0 +1,56 @@
+{
+  "production": [
+    {
+      "name": "9Mobile",
+      "payment_code": "90806"
+    },
+    {
+      "name": "Airtel",
+      "payment_code": "90106"
+    },
+    {
+      "name": "Glo",
+      "payment_code": "91309"
+    },
+    {
+      "name": "MTN",
+      "payment_code": "10906"
+    }
+  ],
+  "ifis-k3": [
+    {
+      "name": "9Mobile",
+      "payment_code": "90806"
+    },
+    {
+      "name": "Airtel",
+      "payment_code": "90106"
+    },
+    {
+      "name": "Glo",
+      "payment_code": "10803"
+    },
+    {
+      "name": "MTN",
+      "payment_code": "10906"
+    }
+  ],
+  "uat": [
+    {
+      "name": "9Mobile",
+      "payment_code": "90806"
+    },
+    {
+      "name": "Airtel",
+      "payment_code": "90106"
+    },
+    {
+      "name": "Glo",
+      "payment_code": "10803"
+    },
+    {
+      "name": "MTN",
+      "payment_code": "10906"
+    }
+  ]
+}

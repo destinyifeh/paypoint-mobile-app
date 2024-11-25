@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "528876495002",
+    "firebase_url": "https://quickteller-paypoint-test.firebaseio.com",
+    "project_id": "quickteller-paypoint-test",
+    "storage_bucket": "quickteller-paypoint-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528876495002:android:b499a8876c11c40de17f23",
+        "android_client_info": {
+          "package_name": "com.finch_agent_mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528876495002-rg81rlh0aaahlk7f06ku1tdtj1q9kvqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuSUoCzSNJY1uF2q-jUYLWQtH-cJZiV4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528876495002-rg81rlh0aaahlk7f06ku1tdtj1q9kvqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528876495002:android:aa4ad800f6bcfd6ce17f23",
+        "android_client_info": {
+          "package_name": "com.interswitchng.ifisagent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528876495002-rg81rlh0aaahlk7f06ku1tdtj1q9kvqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuSUoCzSNJY1uF2q-jUYLWQtH-cJZiV4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528876495002-rg81rlh0aaahlk7f06ku1tdtj1q9kvqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

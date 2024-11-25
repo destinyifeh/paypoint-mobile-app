@@ -1,0 +1,32 @@
+{
+  "production": [
+    {
+      "name": "Airtel",
+      "payment_code": "04338501"
+    },
+    {
+      "name": "Glo",
+      "payment_code": "04312201"
+    }
+  ],
+  "ifis-k3": [
+    {
+      "name": "Airtel",
+      "payment_code": "04338501"
+    },
+    {
+      "name": "Glo",
+      "payment_code": "04312201"
+    }
+  ],
+  "uat": [
+    {
+      "name": "Airtel",
+      "payment_code": "04338501"
+    },
+    {
+      "name": "Glo",
+      "payment_code": "04312201"
+    }
+  ]
+}

@@ -1,0 +1,668 @@
+{
+  "recharge": [
+    {
+      "id": 1,
+      "name": "Sell Airtime"
+    },
+    {
+      "id": 2,
+      "name": "Sell Data"
+    },
+    {
+      "id": 3,
+      "name": "Sell EPin"
+    }
+  ],
+  "cash_out": [
+    {
+      "id": 1,
+      "name": "Via Paycode",
+      "guide": {
+        "banner_title": "About 'Cash Out' via Paycode",
+        "icon_name": "money",
+        "short_description": "Dispense cash to customers with our Withdraw feature. Simply enter the customer's paycode and cashout PIN and confirm the transaction.",
+        "long_description": "",
+        "step_by_step_guide": {
+          "title": "How \"Cash Out via Paycode\" Works",
+          "content": [
+            {
+              "title": "Select \"Cash Out\"",
+              "body": "Select \"Cash Out\" from the services menu"
+            },
+            {
+              "title": "Enter Customer Paycode",
+              "body": "Input the customer's Paycode into the appropriately labelled field"
+            },
+            {
+              "title": "Enter Initiator's Phone Number",
+              "body": "Enter the phone number of the person who generated the Paycode"
+            },
+            {
+              "title": "Enter Customer's Details",
+              "body": "Input the details of the customer"
+            },
+            {
+              "title": "Enter Amount",
+              "body": "Enter the amount to be withdrawn. The amount must match the amount set when the paycode was generated"
+            },
+            {
+              "title": "Review Transaction Details",
+              "body": "Review and confirm the transaction details including the cash out amount"
+            },
+            {
+              "title": "Enter Customer's PIN",
+              "body": "Input the customer's PIN into the appropriately labelled field"
+            },
+            {
+              "title": "Dispense Cash",
+              "body": "Once the transaction is successful, dispense cash to the customer"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "Via USSD"
+    }
+  ],
+  "bills": [
+    {
+      "id": 7,
+      "name": "Aid Grants and Donations",
+      "description": "Make Donations",
+      "urlName": "aid-grants-and-donations"
+    },
+    {
+      "id": 4,
+      "name": "Airtime and Data",
+      "description": "Pay all post paid phone bills",
+      "urlName": "airtime-and-data"
+    },
+    {
+      "id": 68,
+      "name": "Airtime Top-up",
+      "description": "Airtime Top-up",
+      "urlName": "airtime-top-up"
+    },
+    {
+      "id": 28,
+      "name": "Associations and Societies",
+      "description": "Associations and Societies",
+      "urlName": "associations-and-societies"
+    },
+    {
+      "id": 29,
+      "name": "BankOne MFBs",
+      "description": "payment Bank One",
+      "urlName": "bankone-mfbs"
+    },
+    {
+      "id": 41,
+      "name": "Betting, Lottery and Gaming",
+      "description": "Betting and Lottery",
+      "urlName": "betting,-lottery-and-gaming"
+    },
+    {
+      "id": 2,
+      "name": "Cable TV",
+      "description": "Pay your cable TV bill here",
+      "urlName": "cable-tv"
+    },
+    {
+      "id": 25,
+      "name": "Commerce Retail Trade",
+      "description": "Anti-Virus Software Online purchase   ",
+      "urlName": "commerce-retail-trade"
+    },
+    {
+      "id": 61,
+      "name": "Credit and Loans",
+      "description": "Loan Repayment",
+      "urlName": "credit-and-loans"
+    },
+    {
+      "id": 32,
+      "name": "Cross River State Govt",
+      "description": "Cross River State Government Collections",
+      "urlName": "cross-river-state-govt"
+    },
+    {
+      "id": 22,
+      "name": "Dealer Payments",
+      "description": "Various Dealers",
+      "urlName": "dealer-payments"
+    },
+    {
+      "id": 40,
+      "name": "Dues and Service Charge",
+      "description": "STB SERVICE",
+      "urlName": "dues-and-service-charge"
+    },
+    {
+      "id": 10,
+      "name": "Embassies",
+      "description": "Embassy Payments",
+      "urlName": "embassies"
+    },
+    {
+      "id": 47,
+      "name": "Eminent Technologies",
+      "description": "Eminent Technologies",
+      "urlName": "eminent-technologies"
+    },
+    {
+      "id": 30,
+      "name": "Event Tickets",
+      "description": "Buy your tickets here",
+      "urlName": "event-tickets"
+    },
+    {
+      "id": 8,
+      "name": "Financial Services",
+      "description": "Investments and  Insurance ",
+      "urlName": "financial-services"
+    },
+    {
+      "id": 6,
+      "name": "Government Payments",
+      "description": "State and Ministry Payments",
+      "urlName": "government-payments"
+    },
+    {
+      "id": 15,
+      "name": "InsureDirect",
+      "description": "Insurance payments",
+      "urlName": "insuredirect"
+    },
+    {
+      "id": 55,
+      "name": "International Airtime",
+      "description": "International Airtime",
+      "urlName": "international-airtime"
+    },
+    {
+      "id": 5,
+      "name": "Internet Services",
+      "description": "Pay for your other subscriptions ",
+      "urlName": "internet-services"
+    },
+    {
+      "id": 39,
+      "name": "Interswitch Services",
+      "description": "Interswitch Services",
+      "urlName": "interswitch-services"
+    },
+    {
+      "id": 9,
+      "name": "Invoice Payments",
+      "description": "Invoice Payments",
+      "urlName": "invoice-payments"
+    },
+    {
+      "id": 48,
+      "name": "Merchant Payments",
+      "description": "Quickteller SME",
+      "urlName": "merchant-payments"
+    },
+    {
+      "id": 18,
+      "name": "Mobile Money Wallets",
+      "description": "Fund Mobile Wallets",
+      "urlName": "mobile-money-wallets"
+    },
+    {
+      "id": 3,
+      "name": "Mobile Recharge",
+      "description": "Recharge your phone",
+      "urlName": "mobile-recharge"
+    },
+    {
+      "id": 20,
+      "name": "Nestle Distributors",
+      "description": "Nestle Distributors",
+      "urlName": "nestle-distributors"
+    },
+    {
+      "id": 13,
+      "name": "Online Shopping",
+      "description": "Online Shopping",
+      "urlName": "online-shopping"
+    },
+    {
+      "id": 60,
+      "name": "Pay TV",
+      "description": "Pay TV Bills",
+      "urlName": "pay-tv"
+    },
+    {
+      "id": 23,
+      "name": "PayChoice",
+      "description": "PayChoice",
+      "urlName": "paychoice"
+    },
+    {
+      "id": 37,
+      "name": "Prepaid Card Services",
+      "description": "Prepaid Card Services",
+      "urlName": "prepaid-card-services"
+    },
+    {
+      "id": 19,
+      "name": "Products and Services",
+      "description": "Pay for Products and Services",
+      "urlName": "products-and-services"
+    },
+    {
+      "id": 27,
+      "name": "Religious Institutions",
+      "description": "Religious Contributions",
+      "urlName": "religious-institutions"
+    },
+    {
+      "id": 33,
+      "name": "School and Exam Fees",
+      "description": "Schools",
+      "urlName": "school-and-exam-fees"
+    },
+    {
+      "id": 36,
+      "name": "Send and Receive Money",
+      "description": "Transfers ",
+      "urlName": "send-and-receive-money"
+    },
+    {
+      "id": 49,
+      "name": "Shopping",
+      "description": "Shopping",
+      "urlName": "shopping"
+    },
+    {
+      "id": 26,
+      "name": "Tax Payment",
+      "description": "Pay your taxes",
+      "urlName": "tax-payment"
+    },
+    {
+      "id": 12,
+      "name": "Transport and Toll Payments",
+      "description": "Toll payments",
+      "urlName": "transport-and-toll-payments"
+    },
+    {
+      "id": 11,
+      "name": "Travel and Hotel",
+      "description": "Airline tickets and hotel reservation payments",
+      "urlName": "travel-and-hotel"
+    },
+    {
+      "id": 1,
+      "name": "Utilities",
+      "description": "Pay Utility Bills here",
+      "urlName": "utilities"
+    }
+  ],
+  "ePin": [
+    {
+      "name": "Airtel",
+      "label": "Airtel",
+      "value": "Airtel",
+      "paymentCode": "04338501",
+      "urlName": "airtel",
+      "Prefixes": [
+        "0701",
+        "0708",
+        "0802",
+        "0808",
+        "0812",
+        "0902",
+        "0907",
+        "0901",
+        "0904",
+        "0912"
+      ],
+      "currencyCode": "566",
+      "currencySymbol": "NGN",
+      "imageUrl": "https://quickteller.com/images/Downloaded/15068ed0-4b5b-4531-b529-27493e3acf16.png"
+    },
+    {
+      "name": "Glo",
+      "label": "Glo",
+      "value": "Glo",
+      "paymentCode": "04312201",
+      "urlName": "gloquickcharge",
+      "Prefixes": ["0705", "0805", "0807", "0811", "0815", "0905", "0915"],
+      "currencyCode": "566",
+      "currencySymbol": "NGN",
+      "imageUrl": "https://quickteller.com/images/Downloaded/b347db8a-73d2-4328-b429-81eeb3aae23b.png"
+    }
+  ],
+  "send-money": [
+    {
+      "id": 1,
+      "name": "Funds Transfer"
+    },
+    {
+      "id": 2,
+      "name": "Transfer to Agents"
+    },
+    {
+      "id": 3,
+      "name": "Distribute",
+      "feature_props": {
+        "requiredDomain": "super agent",
+        "uid": "distribute-services-scene-list-item"
+      }
+    }
+  ],
+  "buy-airtime": [
+    {
+      "name": "Airtel",
+      "paymentCode": "90106",
+      "urlName": "airtel",
+      "Prefixes": [
+        "0701",
+        "0708",
+        "0802",
+        "0808",
+        "0812",
+        "0902",
+        "0907",
+        "0901",
+        "0904",
+        "0912"
+      ],
+      "currencyCode": "566",
+      "currencySymbol": "NGN",
+      "imageUrl": "https://quickteller.com/images/Downloaded/15068ed0-4b5b-4531-b529-27493e3acf16.png"
+    },
+    {
+      "name": "9Mobile",
+      "paymentCode": "90806",
+      "urlName": "9mobile",
+      "Prefixes": ["0809", "0817", "0818", "0909", "0908"],
+      "currencyCode": "566",
+      "currencySymbol": "NGN",
+      "imageUrl": "https://quickteller.com/images/Downloaded/7ad054ee-b313-4a10-8c38-8b3545ffcd18.png"
+    },
+    {
+      "name": "Glo",
+      "paymentCode": "91309",
+      "urlName": "gloquickcharge",
+      "Prefixes": ["0705", "0805", "0807", "0811", "0815", "0905", "0915"],
+      "currencyCode": "566",
+      "currencySymbol": "NGN",
+      "imageUrl": "https://quickteller.com/images/Downloaded/b347db8a-73d2-4328-b429-81eeb3aae23b.png"
+    },
+    {
+      "name": "MTN",
+      "paymentCode": "10906",
+      "urlName": "mtnvtu",
+      "Prefixes": [
+        "0703",
+        "0706",
+        "0803",
+        "0806",
+        "0810",
+        "0813",
+        "0814",
+        "0816",
+        "0903",
+        "0913",
+        "0916"
+      ],
+      "currencyCode": "566",
+      "currencySymbol": "NGN",
+      "imageUrl": "https://quickteller.com/images/Downloaded/09703f61-1294-413e-bb7e-0b641d39489f.png"
+    }
+  ],
+  "cash-in": {
+    "id": 20,
+    "name": "Cash In",
+    "description": "Fund Mobile Wallets",
+    "urlName": "mobile-money-wallets"
+  },
+  "marketplace": [
+    {
+      "id": 7,
+      "name": "Aid Grants and Donations",
+      "description": "Make Donations",
+      "urlName": "aid-grants-and-donations"
+    },
+    {
+      "id": 4,
+      "name": "Airtime and Data",
+      "description": "Pay all post paid phone bills",
+      "urlName": "airtime-and-data"
+    },
+    {
+      "id": 68,
+      "name": "Airtime Top-up",
+      "description": "Airtime Top-up",
+      "urlName": "airtime-top-up"
+    },
+    {
+      "id": 28,
+      "name": "Associations and Societies",
+      "description": "Associations and Societies",
+      "urlName": "associations-and-societies"
+    },
+    {
+      "id": 29,
+      "name": "BankOne MFBs",
+      "description": "payment Bank One",
+      "urlName": "bankone-mfbs"
+    },
+    {
+      "id": 41,
+      "name": "Betting, Lottery and Gaming",
+      "description": "Betting and Lottery",
+      "urlName": "betting,-lottery-and-gaming"
+    },
+    {
+      "id": 2,
+      "name": "Cable TV",
+      "description": "Pay your cable TV bill here",
+      "urlName": "cable-tv"
+    },
+    {
+      "id": 25,
+      "name": "Commerce Retail Trade",
+      "description": "Anti-Virus Software Online purchase   ",
+      "urlName": "commerce-retail-trade"
+    },
+    {
+      "id": 61,
+      "name": "Credit and Loans",
+      "description": "Loan Repayment",
+      "urlName": "credit-and-loans"
+    },
+    {
+      "id": 32,
+      "name": "Cross River State Govt",
+      "description": "Cross River State Government Collections",
+      "urlName": "cross-river-state-govt"
+    },
+    {
+      "id": 22,
+      "name": "Dealer Payments",
+      "description": "Various Dealers",
+      "urlName": "dealer-payments"
+    },
+    {
+      "id": 40,
+      "name": "Dues and Service Charge",
+      "description": "STB SERVICE",
+      "urlName": "dues-and-service-charge"
+    },
+    {
+      "id": 10,
+      "name": "Embassies",
+      "description": "Embassy Payments",
+      "urlName": "embassies"
+    },
+    {
+      "id": 47,
+      "name": "Eminent Technologies",
+      "description": "Eminent Technologies",
+      "urlName": "eminent-technologies"
+    },
+    {
+      "id": 30,
+      "name": "Event Tickets",
+      "description": "Buy your tickets here",
+      "urlName": "event-tickets"
+    },
+    {
+      "id": 8,
+      "name": "Financial Services",
+      "description": "Investments and  Insurance ",
+      "urlName": "financial-services"
+    },
+    {
+      "id": 6,
+      "name": "Government Payments",
+      "description": "State and Ministry Payments",
+      "urlName": "government-payments"
+    },
+    {
+      "id": 15,
+      "name": "InsureDirect",
+      "description": "Insurance payments",
+      "urlName": "insuredirect"
+    },
+    {
+      "id": 55,
+      "name": "International Airtime",
+      "description": "International Airtime",
+      "urlName": "international-airtime"
+    },
+    {
+      "id": 5,
+      "name": "Internet Services",
+      "description": "Pay for your other subscriptions ",
+      "urlName": "internet-services"
+    },
+    {
+      "id": 39,
+      "name": "Interswitch Services",
+      "description": "Interswitch Services",
+      "urlName": "interswitch-services"
+    },
+    {
+      "id": 9,
+      "name": "Invoice Payments",
+      "description": "Invoice Payments",
+      "urlName": "invoice-payments"
+    },
+    {
+      "id": 48,
+      "name": "Merchant Payments",
+      "description": "Quickteller SME",
+      "urlName": "merchant-payments"
+    },
+    {
+      "id": 18,
+      "name": "Mobile Money Wallets",
+      "description": "Fund Mobile Wallets",
+      "urlName": "mobile-money-wallets"
+    },
+    {
+      "id": 3,
+      "name": "Mobile Recharge",
+      "description": "Recharge your phone",
+      "urlName": "mobile-recharge"
+    },
+    {
+      "id": 20,
+      "name": "Nestle Distributors",
+      "description": "Nestle Distributors",
+      "urlName": "nestle-distributors"
+    },
+    {
+      "id": 13,
+      "name": "Online Shopping",
+      "description": "Online Shopping",
+      "urlName": "online-shopping"
+    },
+    {
+      "id": 60,
+      "name": "Pay TV",
+      "description": "Pay TV Bills",
+      "urlName": "pay-tv"
+    },
+    {
+      "id": 23,
+      "name": "PayChoice",
+      "description": "PayChoice",
+      "urlName": "paychoice"
+    },
+    {
+      "id": 37,
+      "name": "Prepaid Card Services",
+      "description": "Prepaid Card Services",
+      "urlName": "prepaid-card-services"
+    },
+    {
+      "id": 19,
+      "name": "Products and Services",
+      "description": "Pay for Products and Services",
+      "urlName": "products-and-services"
+    },
+    {
+      "id": 27,
+      "name": "Religious Institutions",
+      "description": "Religious Contributions",
+      "urlName": "religious-institutions"
+    },
+    {
+      "id": 33,
+      "name": "School and Exam Fees",
+      "description": "Schools",
+      "urlName": "school-and-exam-fees"
+    },
+    {
+      "id": 36,
+      "name": "Send and Receive Money",
+      "description": "Transfers ",
+      "urlName": "send-and-receive-money"
+    },
+    {
+      "id": 49,
+      "name": "Shopping",
+      "description": "Shopping",
+      "urlName": "shopping"
+    },
+    {
+      "id": 26,
+      "name": "Tax Payment",
+      "description": "Pay your taxes",
+      "urlName": "tax-payment"
+    },
+    {
+      "id": 12,
+      "name": "Transport and Toll Payments",
+      "description": "Toll payments",
+      "urlName": "transport-and-toll-payments"
+    },
+    {
+      "id": 11,
+      "name": "Travel and Hotel",
+      "description": "Airline tickets and hotel reservation payments",
+      "urlName": "travel-and-hotel"
+    },
+    {
+      "id": 1,
+      "name": "Utilities",
+      "description": "Pay Utility Bills here",
+      "urlName": "utilities"
+    }
+  ],
+  "mmo": {
+    "id": 20,
+    "name": "MMOs",
+    "description": "Fund Mobile Wallets",
+    "urlName": "mobile-money-wallets"
+  },
+  "open-an-account": []
+}

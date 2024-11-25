@@ -1,0 +1,22 @@
+[{
+  "id": 1,
+  "name": "Pay Bill"
+}, {
+  "id": 2,
+  "name": "Send Money (Transfer to Account)"
+}, {
+  "id": 3,
+  "name": "Buy Airtime"
+}, {
+  "id": 4,
+  "name": "Fund Wallet"
+}, {
+  "id": 5,
+  "name": "Cash Out"
+}, {
+  "id": 6,
+  "name": "Send Money (Transfer to Agent)"
+}, {
+  "id": 13,
+  "name": "Account Opening"
+}]

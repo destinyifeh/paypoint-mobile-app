@@ -1,0 +1,26 @@
+[
+  {
+    "label": "TV/Radio",
+    "value": "TV/Radio"
+  },
+  {
+    "label": "Social Media",
+    "value": "Social Media"
+  },
+  {
+    "label": "Market Storm",
+    "value": "Market Storm"
+  },
+  {
+    "label": "From a Friend",
+    "value": "From a Friend"
+  },
+  {
+    "label": "Referred by an Agent",
+    "value": "Referred by an Agent"
+  },
+  {
+    "label": "Other",
+    "value": "Other"
+  }
+]

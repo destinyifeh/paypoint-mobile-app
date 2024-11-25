@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Visa",
+    "pan": "2219-XXXX-XX12-1910"
+  },
+  {
+    "type": "Verve",
+    "pan": "2219-XXXX-XX12-1910"
+  },
+  {
+    "type": "MasterCard",
+    "pan": "0065-XXXX-XX92-0962"
+  }
+]

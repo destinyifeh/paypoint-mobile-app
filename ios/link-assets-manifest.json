@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Mark Simonson - Proxima Nova Alt Bold-webfont.ttf",
+      "sha1": "0a6379cc4cde08240d2283db6c63d19cf6c1eed2"
+    },
+    {
+      "path": "assets/fonts/Mark Simonson - Proxima Nova Alt Regular-webfont.ttf",
+      "sha1": "fff6e3195bca90f43630ea779ab7d212f7b82be8"
+    },
+    {
+      "path": "assets/fonts/Mark Simonson - Proxima Nova Semibold-webfont.ttf",
+      "sha1": "37aabee9d2f4fdb6c268475c9be2e4da85bb6931"
+    },
+    {
+      "path": "assets/fonts/Mark Simonson - Proxima Nova Thin-webfont.ttf",
+      "sha1": "43157fecf1318b09922bf36a62303f467d54e7d2"
+    },
+    {
+      "path": "assets/fonts/Precious.ttf",
+      "sha1": "5c1c06d3ba54c06c62a580af53026fdc651c71f3"
+    }
+  ]
+}

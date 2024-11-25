@@ -1,0 +1,50 @@
+[
+  {
+    "id": "Aunt",
+    "name": "Aunt"
+  },
+  {
+    "id": "Brother",
+    "name": "Brother"
+  },
+  {
+    "id": "Cousin",
+    "name": "Cousin"
+  },
+  {
+    "id": "Daughter",
+    "name": "Daughter"
+  },
+  {
+    "id": "Father",
+    "name": "Father"
+  },
+  {
+    "id": "Guardian",
+    "name": "Guardian"
+  },
+  {
+    "id": "Mother",
+    "name": "Mother"
+  },
+  {
+    "id": "Nephew/Niece",
+    "name": "Nephew/Niece"
+  },
+  {
+    "id": "Sister",
+    "name": "Sister"
+  },
+  {
+    "id": "Spouse",
+    "name": "Spouse"
+  },
+  {
+    "id": "Son",
+    "name": "Son"
+  },
+  {
+    "id": "Uncle",
+    "name": "Uncle"
+  }
+]

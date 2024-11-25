@@ -1,0 +1,90 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Error AlertStrip renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "borderRadius": 4,
+        "borderWidth": 2,
+        "color": "#3A3B3B",
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "marginBottom": 20,
+        "padding": 20,
+      },
+      Object {
+        "backgroundColor": "#EE312A90",
+        "borderColor": "#EE312A",
+      },
+    ]
+  }
+>
+  <View>
+    <Text
+      black={true}
+      bold={true}
+      style={
+        Object {
+          "color": "#3A3B3B",
+          "fontWeight": "bold",
+        }
+      }
+    >
+      ERROR
+    </Text>
+    <Text
+      black={true}
+      style={
+        Object {
+          "color": "#3A3B3B",
+        }
+      }
+    />
+  </View>
+</View>
+`;
+
+exports[`Success AlertStrip renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "borderRadius": 4,
+        "borderWidth": 2,
+        "color": "#3A3B3B",
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "marginBottom": 20,
+        "padding": 20,
+      },
+      undefined,
+    ]
+  }
+>
+  <View>
+    <Text
+      black={true}
+      bold={true}
+      style={
+        Object {
+          "color": "#3A3B3B",
+          "fontWeight": "bold",
+        }
+      }
+    >
+      SUCCESS
+    </Text>
+    <Text
+      black={true}
+      style={
+        Object {
+          "color": "#3A3B3B",
+        }
+      }
+    />
+  </View>
+</View>
+`;

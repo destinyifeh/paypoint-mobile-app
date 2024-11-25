@@ -1,0 +1,193 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Big text renders correctly 1`] = `
+<Text
+  big={true}
+  style={
+    Object {
+      "color": "#808593",
+      "fontSize": 22,
+      "lineHeight": 24,
+    }
+  }
+/>
+`;
+
+exports[`Bigger text renders correctly 1`] = `
+<Text
+  bigger={true}
+  style={
+    Object {
+      "color": "#808593",
+      "fontSize": 26,
+      "lineHeight": 32,
+    }
+  }
+/>
+`;
+
+exports[`Black text renders correctly 1`] = `
+<Text
+  black={true}
+  style={
+    Object {
+      "color": "#3A3B3B",
+    }
+  }
+/>
+`;
+
+exports[`Bold text renders correctly 1`] = `
+<Text
+  bold={true}
+  style={
+    Object {
+      "color": "#808593",
+      "fontWeight": "bold",
+    }
+  }
+/>
+`;
+
+exports[`Center text renders correctly 1`] = `
+<Text
+  center={true}
+  style={
+    Object {
+      "color": "#808593",
+      "textAlign": "center",
+      "textAlignVertical": "center",
+    }
+  }
+/>
+`;
+
+exports[`Failed status text renders correctly 1`] = `
+<Text
+  isFailedStatus={true}
+  style={
+    Object {
+      "color": "#EE312A",
+      "fontSize": 12,
+    }
+  }
+/>
+`;
+
+exports[`Green text renders correctly 1`] = `
+<Text
+  green={true}
+  style={
+    Object {
+      "color": "#32BE69",
+    }
+  }
+/>
+`;
+
+exports[`Pending status text renders correctly 1`] = `
+<Text
+  isPendingStatus={true}
+  style={
+    Object {
+      "color": "#EABB73",
+      "fontSize": 12,
+    }
+  }
+/>
+`;
+
+exports[`Red text renders correctly 1`] = `
+<Text
+  red={true}
+  style={
+    Object {
+      "color": "#EE312A",
+    }
+  }
+/>
+`;
+
+exports[`Right-aligned text renders correctly 1`] = `
+<Text
+  right={true}
+  style={
+    Object {
+      "color": "#808593",
+      "textAlign": "right",
+    }
+  }
+/>
+`;
+
+exports[`Small text renders correctly 1`] = `
+<Text
+  small={true}
+  style={
+    Object {
+      "color": "#808593",
+      "fontSize": 12,
+      "lineHeight": undefined,
+    }
+  }
+/>
+`;
+
+exports[`Status text renders correctly 1`] = `
+<Text
+  isStatus={true}
+  style={
+    Object {
+      "color": "#808593",
+      "fontSize": 12,
+    }
+  }
+/>
+`;
+
+exports[`Success status text renders correctly 1`] = `
+<Text
+  isSuccessStatus={true}
+  style={
+    Object {
+      "color": "#32BE69",
+      "fontSize": 12,
+    }
+  }
+/>
+`;
+
+exports[`Title text renders correctly 1`] = `
+<Text
+  style={
+    Object {
+      "color": "#808593",
+      "fontSize": 16,
+    }
+  }
+  title={true}
+/>
+`;
+
+exports[`Uppercase text renders correctly 1`] = `
+<Text
+  style={
+    Object {
+      "color": "#808593",
+      "textTransform": "uppercase",
+    }
+  }
+  uppercase={true}
+/>
+`;
+
+exports[`White text renders correctly 1`] = `
+<Text
+  style={
+    Object {
+      "color": "#FFFFFF",
+    }
+  }
+  white={true}
+/>
+`;

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "National ID Card"
+  },
+  {
+    "id": 2,
+    "name": "International Passport"
+  },
+  {
+    "id": 3,
+    "name": "Voter's Card"
+  },
+  {
+    "id": 4,
+    "name": "National Identification Number"
+  },
+  {
+    "id": 5,
+    "name": "Driver's License"
+  }
+]

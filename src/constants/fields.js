@@ -1,0 +1,16 @@
+export const ACCOUNT_NUMBER_LENGTH = 10;
+export const BVN_LENGTH = 11;
+export const PAST_DATE = 2407520000;
+export const CVV_LENGTH = 3;
+export const MAX_CARD_NUMBER_LENGTH = 19;
+export const MAX_DESCRIPTION_LENGTH = 50;
+export const MAX_NIGERIA_PHONE_LENGTH = 11;
+export const MIN_ACCOUNT_NUMBER_LENGTH = 10;
+export const MIN_ADDRESS_LENGTH = 5;
+export const MIN_PLACE_OF_BIRTH_LENGTH = 3;
+export const MIN_CARD_NUMBER_LENGTH = 16;
+export const MIN_DESCRIPTION_LENGTH = 5;
+export const MIN_NAME_LENGTH = 3;
+export const MIN_NIGERIA_PHONE_LENGTH = 11;
+export const OTP_LENGTH = 6;
+export const PIN_LENGTH = 4;

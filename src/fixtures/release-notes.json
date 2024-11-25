@@ -1,0 +1,92 @@
+{
+  "1.0.18": [
+    {
+      "title": "Printing of Receipts",
+      "description": "To enhance your productivity and quality of service delivery, we have made it possible for you to print out transaction receipts with the single tap of a button."  
+    },
+    {
+      "title": "Minor bug fixes and performance improvements",
+      "description": "We have made some subtle tweaks in the application, to enhance your experience."  
+    },
+    {
+      "title": "Addition of Statement of Account to your Dashboard",
+      "description": "We have added Statement of Account to your Dashboard, so you could see your records at a glance."
+    },
+    {
+      "title": "Cash Out transactions",
+      "description": "Dispense cash to customers with Cash Out. Simply enter the customer's details including the paycode and cashout PIN and process the transaction!"
+    }
+  ],
+  "1.0.16": [
+    {
+      "title": "Minor bug fixes and performance improvements",
+      "description": "We have made some subtle tweaks in the application, to enhance your experience."  
+    }
+  ],
+  "1.0.15": [
+    {
+      "title": "Minor bug fixes and performance improvements",
+      "description": "We have made some subtle tweaks in the application, to enhance your experience."  
+    }
+  ],
+  "1.0.14": [
+    {
+      "title": "Introducing Statement of Accounts",
+      "description": "To support you with more robust reporting, we are providing views to your Statement of Transaction and Commission Accounts.",
+      "implemented": true
+    },
+    {
+      "title": "Auto-refresh on balances and mini-statement.",
+      "description": "Your balances and mini-statement will automatically refresh to reflect latest transactions, as you transact.",
+      "implemented": true
+    },
+    {
+      "title": "Improved session management.",
+      "description": "To improve your experience logging back into the platform, we have revamped our session management.",
+      "implemented": true
+    },
+    {
+      "title": "Minor bug fixes and performance improvements",
+      "description": "We have made some subtle tweaks in the application, to enhance your experience."  
+    }
+  ],
+  "1.0.13": [
+    {
+      "title": "Introducing Statement of Accounts",
+      "description": "To support you with more robust reporting, we are providing views to your Statement of Transaction and Commission Accounts.",
+      "implemented": true
+    },
+    {
+      "title": "Auto-refresh on balances and mini-statement.",
+      "description": "Your balances and mini-statement will automatically refresh to reflect latest transactions, as you transact.",
+      "implemented": true
+    },
+    {
+      "title": "Improved session management.",
+      "description": "To improve your experience logging back into the platform, we have revamped our session management.",
+      "implemented": true
+    },
+    {
+      "title": "Minor bug fixes and performance improvements",
+      "description": "We have made some subtle tweaks in the application, to enhance your experience."  
+    }
+  ],
+  "1.0.12": [
+    {
+      "title": "Selling Data just got easier!",
+      "description": "Data now has a home of its own. You guessed it! It is right alongside Airtime."  
+    },
+    {
+      "title": "Fees are now displayed only when the customer pays them.",
+      "description": "For a better experience, going forward, we will be taking fees off some views. Fees will only be displayed for transactions of which the fees are been paid by the customer."
+    },
+    {
+      "title": "Customer-specific payable amounts on few billers.",
+      "description": "Transactions can now be made on the billers which have their own payable amounts for each of their customers."
+    },
+    {
+      "title": "Minor bug fixes and performance improvements",
+      "description": "We have made some subtle little tweaks in the application, to enhance your experience."  
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+[
+  {
+      "name": "Access Bank",
+      "code": "ABP",
+      "cbnCode": "ABP"
+  },
+  {
+      "name": "Diamond Bank",
+      "code": "DBP",
+      "cbnCode": "DBP"
+  },
+  {
+      "name": "Ecobank",
+      "code": "ECO",
+      "cbnCode": "ECO"
+  },
+  {
+      "name": "Fidelity Bank",
+      "code": "FBP",
+      "cbnCode": "FBP"
+  },
+  {
+      "name": "First Bank",
+      "code": "FBN",
+      "cbnCode": "FBN"
+  },
+  {
+      "name": "Guarantee Trust  Bank",
+      "code": "GTB",
+      "cbnCode": "GTB"
+  },
+  {
+      "name": "Keystone Bank",
+      "code": "KSB",
+      "cbnCode": "KSB"
+  },
+  {
+      "name": "QUICKTELLER",
+      "code": "QUICKTELLER",
+      "cbnCode": "QUICKTELLER"
+  },
+  {
+      "name": "Skye Bank",
+      "code": "SKYE",
+      "cbnCode": "SKYE"
+  },
+  {
+      "name": "Test Bank",
+      "code": "JAIZ",
+      "cbnCode": "JAIZ"
+  },
+  {
+      "name": "Test USSD",
+      "code": "HBP",
+      "cbnCode": "HBP"
+  },
+  {
+      "name": "Test USSD",
+      "code": "UBP",
+      "cbnCode": "UBP"
+  },
+  {
+      "name": "Test USSD",
+      "code": "WEMA",
+      "cbnCode": "WEMA"
+  },
+  {
+      "name": "Test USSD",
+      "code": "SBP",
+      "cbnCode": "SBP"
+  },
+  {
+      "name": "Test USSD",
+      "code": "IBTC",
+      "cbnCode": "IBTC"
+  },
+  {
+      "name": "Test USSD",
+      "code": "FCMB",
+      "cbnCode": "FCMB"
+  },
+  {
+      "name": "Union Bank",
+      "code": "UBN",
+      "cbnCode": "UBN"
+  },
+  {
+      "name": "United Bank for Africa",
+      "code": "UBA",
+      "cbnCode": "UBA"
+  },
+  {
+      "name": "Zenith Bank",
+      "code": "ZIB",
+      "cbnCode": "ZIB"
+  }
+]

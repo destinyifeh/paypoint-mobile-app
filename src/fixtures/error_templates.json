@@ -1,0 +1,217 @@
+[
+  {
+    "code_from_api": "04",
+    "http_code": null,
+    "message_from_api": null,
+    "message_to_user": "An error occured. Please, try again later!",
+    "mode": "MATCH"
+  },
+  {
+    "code_from_api": "04",
+    "http_code": null,
+    "message_to_user": "An error occured. Please, try again later!",
+    "mode": "MATCH"
+  },
+  {
+    "code_from_api": null,
+    "http_code": 401,
+    "message_from_api": "Invalid Access Token",
+    "message_to_user": "An error occured. Please, try again later!",
+    "mode": "MATCH"
+  },
+  {
+    "code_from_api": null,
+    "http_code": 502,
+    "message_from_api": "Remote Server error",
+    "message_to_user": "An error occured. Please, try again later!",
+    "mode": "MATCH"
+  },
+  {
+    "code_from_api": "50200",
+    "http_code": 502,
+    "message_from_api": "Invalid response from remote server",
+    "message_to_user": "An error occured. Please, try again later!",
+    "mode": "MATCH"
+  },
+  {
+    "code_from_api": "04",
+    "http_code": 403,
+    "message_from_api": "Customer validation failed",
+    "message_to_user": "Unable to validate the {customerIdField} \"{customerId}\" at this time.",
+    "mode": "MATCH"
+  },
+  {
+    "code_from_api": "04",
+    "http_code": 403,
+    "message_from_api": "70013",
+    "message_to_user": "Unable to validate the {customerIdField} \"{customerId}\" at this time.",
+    "mode": "MATCH"
+  },
+  {
+    "code_from_api": null,
+    "http_code": 401,
+    "message_from_api": "Invalid username/password",
+    "message_to_user": "Phone number or password is incorrect. Please, try again.",
+    "mode": "MATCH"
+  },
+  {
+    "code_from_api": null,
+    "http_code": 403,
+    "message_from_api": "Your access token is no longer valid, kindly refresh your credentials on developer console",
+    "message_to_user": "Something went wrong. Please, try again later.",
+    "mode": "MATCH"
+  },
+  {
+    "code_from_api": null,
+    "http_code": 401,
+    "message_from_api": "Username/Password is Incorrect",
+    "message_to_user": "Phone number or password is incorrect. Please, try again.",
+    "mode": "MATCH"
+  },
+  {
+    "code_from_api": null,
+    "http_code": 500,
+    "message_from_api": "I/O error on POST request for \"https://passport-ifis.k3.isw.la/passport/api/v1/accounts/recovery/notification\": Unexpected end of file from server; nested exception is java.net.SocketException: Unexpected end of file from server",
+    "message_to_user": "An error occured. Please, try again later!",
+    "mode": "MATCH"
+  },
+  {
+    "code_from_api": null,
+    "http_code": 500,
+    "message_from_api": "reset.user.failed",
+    "message_to_user": "An error occured. Please, try again later!",
+    "mode": "MATCH"
+  },
+  {
+    "code_from_api": null,
+    "http_code": 403,
+    "message_from_api": "accessToken] was not found",
+    "message_to_user": "Something went wrong. Please, go back and enter your login credentials again.",
+    "mode": "MATCH"
+  },
+  {
+    "code_from_api": null,
+    "http_code": 500,
+    "message_from_api": "Connection prematurely closed BEFORE response",
+    "message_to_user": "Something went wrong. Please, repeat that last action again.",
+    "mode": "MATCH"
+  },
+  {
+    "code_from_api": null,
+    "http_code": 401,
+    "message_from_api": "Invalid OTP",
+    "message_to_user": "Please, check the OTP you entered and try again.",
+    "mode": "MATCH"
+  },
+  {
+    "code_from_api": null,
+    "http_code": 403,
+    "message_from_api": "Customer validation failed, ensure correct identification (Meter Number, Smart Card Number etc) is supplied.",
+    "message_to_user": "Unable to validate the {customerIdField} \"{customerId}\" at this time.",
+    "mode": "MATCH"
+  },
+  {
+    "code_from_api": null,
+    "http_code": 401,
+    "message_from_api": "Your account has been locked",
+    "message_to_user": "Your account has been locked.",
+    "mode": "MATCH"
+  },
+  {
+    "code_from_api": null,
+    "http_code": 401,
+    "message_from_api": "Your account has been locked. Please try again after 30 minutes",
+    "message_to_user": "Your account has been locked. Please, try again after 30 minutes.",
+    "mode": "MATCH"
+  },
+  {
+    "code_from_api": null,
+    "http_code": 400,
+    "message_from_api": "Insufficient Funds",
+    "message_to_user": "Insufficient funds. Please, go back and enter an amount lower than your current balance."
+  },
+  {
+    "code_from_api": null,
+    "http_code": 400,
+    "message_from_api": "You do not have enough funds to complete this transaction, kindly top up your wallet.",
+    "message_to_user": "Insufficient funds. Please, go back and enter an amount lower than your current balance."
+  },
+  {
+    "code_from_api": null,
+    "http_code": 400,
+    "message_from_api": "User not found.",
+    "message_to_user": "Account does not exist. Please, check the email address or phone number and try again."
+  },
+  {
+    "code_from_api": "40306",
+    "http_code": 403,
+    "message_from_api": "Transaction is pending. Please, check transaction report to confirm the status",
+    "message_to_user": "Transaction is pending. Please, check transaction report to confirm the status"
+  },
+  {
+    "code_from_api": "40306",
+    "http_code": 409,
+    "message_from_api": "Duplicate entity. Entity already exists",
+    "message_to_user": "Looks like you already submitted that."
+  },
+  {
+    "code_from_api": null,
+    "http_code": 400,
+    "message_from_api": "Provided password has been used recently. Please provide a different password",
+    "message_to_user": "Provided password has been used recently. Please, provide a different password."
+  },
+  {
+    "code_from_api": null,
+    "http_code": 500,
+    "message_from_api": "Connection has been closed BEFORE response, while sending request body",
+    "message_to_user": "Content is too large."
+  },
+  {
+    "code_from_api": "40000",
+    "http_code": 400,
+    "message_from_api": null,
+    "message_to_user": "Something is wrong with the content sent. Please, update the content sent."
+  },
+  {
+    "code_from_api": null,
+    "http_code": 500,
+    "message_from_api": "Credit Wallet Failed",
+    "message_to_user": "Something went wrong. Please, repeat that last action again."
+  },
+  {
+    "code_from_api": null,
+    "http_code": 400,
+    "message_from_api": "Invalid mobile number format - number must begin with country code",
+    "message_to_user": "Phone number is invalid. Please, check the phone number and try again."
+  },
+  {
+    "code_from_api": null,
+    "http_code": null,
+    "message_from_api": "CallableStatementCallback; uncategorized SQLException for SQL [{call update_user_last_login(?, ?)}]; SQL state [S0009]; error code [9002]; The transaction log for database 'finch_user_mgmt' is full due to 'AVAILABILITY_REPLICA'.; nested exception is com.microsoft.sqlserver.jdbc.SQLServerException: The transaction log for database 'finch_user_mgmt' is full due to 'AVAILABILITY_REPLICA'.",
+    "message_to_user": "Something went wrong. Please, repeat that last action again."
+  },
+  {
+    "code_from_api": null,
+    "http_code": null,
+    "message_from_api": "CallableStatementCallback; uncategorized SQLException for SQL [{call psp_update_user_migrate_flag(?, ?, ?)}]; SQL state [S0009]; error code [9002]; The transaction log for database 'finch_user_mgmt' is full due to 'AVAILABILITY_REPLICA'.; nested exception is com.microsoft.sqlserver.jdbc.SQLServerException: The transaction log for database 'finch_user_mgmt' is full due to 'AVAILABILITY_REPLICA'.",
+    "message_to_user": "Something went wrong. Please, repeat that last action again."
+  },
+  {
+    "code_from_api": null,
+    "http_code": null,
+    "message_from_api": "Passport Service requires to complete request processing is not available",
+    "message_to_user": "Something went wrong. Please, repeat that last action again."
+  },
+  {
+    "code_from_api": null,
+    "http_code": null,
+    "message_from_api": "Unknown error: Status Code - InternalServerError",
+    "message_to_user": "Something went wrong. Please, repeat that last action again."
+  },
+  {
+    "code_from_api": null,
+    "http_code": null,
+    "message_from_api": "CallableStatementCallback; uncategorized SQLException for SQL [{call update_user_last_login(?, ?)}]; SQL state [S0002]; error code [9002]; The transaction log for database 'finch_user_mgmt' is full due to 'LOG_BACKUP'.; nested exception is com.microsoft.sqlserver.jdbc.SQLServerException: The transaction log for database 'finch_user_mgmt' is full due to 'LOG_BACKUP'.",
+    "message_to_user": "Something went wrong. Please, repeat that last action again."
+  }
+]

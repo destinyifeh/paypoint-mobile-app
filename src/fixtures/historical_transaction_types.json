@@ -1,0 +1,122 @@
+[
+  {
+    "value": "AIRTIME_TOPUP_CASH",
+    "name": "AirTime Topup"
+  },
+  {
+    "value": "AIRTIME_TOPUP_TOKEN",
+    "name": "AirTime Topup by Token"
+  },
+  {
+    "value": "BILL_PAYMENT_CASH",
+    "name": "Bill Payment"
+  },
+  {
+    "value": "BILL_PAYMENT_TOKEN",
+    "name": "Bill Payment by Token"
+  },
+  {
+    "value": "CASH_IN_CASH_INTER_SP",
+    "name": "Cash In Inter SP"
+  },
+  {
+    "value": "CASH_IN_CASH_INTRA_SP",
+    "name": "Cash In"
+  },
+  {
+    "value": "CASH_IN_OTHER_CASH_INTER_SP",
+    "name": "Cash In other Inter SP"
+  },
+  {
+    "value": "CASH_IN_OTHER_CASH_INTRA_SP",
+    "name": "Cash In other"
+  },
+  {
+    "value": "CASH_IN_OTHER_TOKEN_INTER_SP",
+    "name": "Cash In other by Token Inter SP"
+  },
+  {
+    "value": "CASH_IN_OTHER_TOKEN_INTRA_SP",
+    "name": "Cash In other by Token"
+  },
+  {
+    "value": "CASH_IN_TOKEN_INTER_SP",
+    "name": "Cash In by Token Inter SP"
+  },
+  {
+    "value": "CASH_IN_TOKEN_INTRA_SP",
+    "name": "Cash In by Token"
+  },
+  {
+    "value": "CASH_OUT_CASH_INTER_SP",
+    "name": "Cash Out Inter SP"
+  },
+  {
+    "value": "CASH_OUT_CASH_INTRA_SP",
+    "name": "Cash Out"
+  },
+  {
+    "value": "CASH_OUT_TOKEN_INTER_SP",
+    "name": "Cash Out by Token Inter SP"
+  },
+  {
+    "value": "CASH_OUT_TOKEN_INTRA_SP",
+    "name": "Cash Out by Token"
+  },
+  {
+    "value": "DISTRIBUTE",
+    "name": "Distribute"
+  },
+  {
+    "value": "GET_AGENTS_BALANCE",
+    "name": "Get Agents Balance"
+  },
+  {
+    "value": "GET_AGENTS_LAST_TRANSACTION",
+    "name": "Get Agents Last Transaction"
+  },
+  {
+    "value": "INTERNATIONAL_REMITTANCE",
+    "name": "International Remittance"
+  },
+  {
+    "value": "LIQUIDITY_TRANSFER",
+    "name": "Liquidity Transfer"
+  },
+  {
+    "value": "LOAN_APPLICATION",
+    "name": "Loan Application"
+  },
+  {
+    "value": "MONEY_TRANSFER_CASH_INTER_SP",
+    "name": "Money Transfer Inter SP"
+  },
+  {
+    "value": "MONEY_TRANSFER_CASH_INTRA_SP",
+    "name": "Money Transfer"
+  },
+  {
+    "value": "MONEY_TRANSFER_TOKEN_INTER_SP",
+    "name": "Money Transfer by Token Inter SP"
+  },
+  {
+    "value": "MONEY_TRANSFER_TOKEN_INTRA_SP",
+    "name": "Money Transfer by Token"
+  },
+  {
+    "value": "REMOTE_BANK_ACCOUNT_OPENING",
+    "name": "Remote Bank Account Opening"
+  },
+  {
+    "value": "REMOTE_MMO_ACCOUNT_OPENING",
+    "name": "Remote MMO Account Opening"
+  },
+  {
+    "value": "SET_SVA_BALANCE",
+    "name": "Set SVA Balance"
+  },
+  {
+    "value": "UNLOAD_COMMISION",
+    "name": "Unload Commission"
+  }
+]

@@ -1,0 +1,26 @@
+ [
+      {
+        "bank": "first",
+        "visa": "20",
+        "master": "N/A",
+        "verve": "100"
+      },
+      {
+        "bank": "fidelity",
+        "visa": "70",
+        "master": "95",
+        "verve": "80"
+      },
+      {
+        "bank": "GT",
+        "visa": "100",
+        "master": "75",
+        "verve": "60"
+      },
+      {
+        "bank": "wema",
+        "visa": "100",
+        "master": "100",
+        "verve": "100"
+      }
+    ]

@@ -1,0 +1,70 @@
+[
+    {
+      "label": "All",
+      "value": "All"
+    },
+    {
+      "label": "Bills",
+      "value": "BILLS"
+    },
+    {
+      "label": "Transfer",
+      "value": "TRANSFER"
+    },
+    {
+      "label": "NIP Transfer",
+      "value": "NIP"
+    },
+    {
+      "label": "POS Purchase",
+      "value": "PURCHASE"
+    },
+    {
+      "label": "Recharge",
+      "value": "RECHARGE"
+    },
+    {
+      "label": "Fund",
+      "value": "FUND"
+    },
+    {
+      "label": "Cash Out",
+      "value": "CASH_OUT"
+    },
+    {
+      "label": "Wallet",
+      "value": "WALLET"
+    },
+    {
+      "label": "Cash In",
+      "value": "CASH_IN"
+    },
+    {
+      "label": "Commission Unload",
+      "value": "COMMISSION_UNLOAD"
+    },
+    {
+      "label": "Paypoint Fund",
+      "value": "PAYPOINT_FUND"
+    },
+    {
+      "label": "Reversal",
+      "value": "REVERSAL"
+    },
+    {
+      "label": "Refund",
+      "value": "REFUND"
+    },
+    {
+      "label": "Retrieval",
+      "value": "RETRIEVAL"
+    },
+    {
+      "label": "Account Opening",
+      "value": "ACCOUNT_OPENING"
+    },
+    {
+      "label": "Distribute",
+      "value": "DISTRIBUTE"
+    }
+  ]

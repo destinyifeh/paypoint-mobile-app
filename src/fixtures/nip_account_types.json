@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Savings",
+    "code": "SAVINGS"
+  },
+  {
+    "name": "Current",
+    "code": "CURRENT"
+  },
+  {
+    "name": "Not Sure",
+    "code": "NOT SURE"
+  }
+]

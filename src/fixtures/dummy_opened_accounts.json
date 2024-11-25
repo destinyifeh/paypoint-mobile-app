@@ -1,0 +1,116 @@
+[
+  {
+    "bankCode": "057",
+    "firstName": "Chimex",
+    "lastName": "Lawrence",
+    "bvn": "22098890132",
+    "emailAddress": "athans4sure@yahoo.com",
+    "dob": "10-01-1992",
+    "phoneNumber": "07034456677",
+    "gender": "MALE",
+    "country": "NIGERIA",
+    "state": 1,
+    "lga": 4,
+    "address": {
+      "streetNumber": "22",
+      "streetName": "",
+      "town": ""
+    },
+    "status": "Draft"
+  },
+  {
+    "bankCode": "011",
+    "firstName": "Obinna",
+    "lastName": "Adeoti",
+    "bvn": "22098890132",
+    "emailAddress": "ob.ade@yahoo.com",
+    "dob": "10-01-1992",
+    "phoneNumber": "08109021677",
+    "gender": "MALE",
+    "country": "NIGERIA",
+    "state": 1,
+    "lga": 4,
+    "address": {
+      "streetNumber": "22",
+      "streetName": "",
+      "town": ""
+    },
+    "status": "Pending"
+  },
+  {
+    "bankCode": "214",
+    "firstName": "Gbenga",
+    "lastName": "Emmanuel",
+    "bvn": "22098890132",
+    "emailAddress": "gbel09@gmail.com",
+    "dob": "10-01-1992",
+    "phoneNumber": "07030901921",
+    "gender": "MALE",
+    "country": "NIGERIA",
+    "state": 1,
+    "lga": 4,
+    "address": {
+      "streetNumber": "22",
+      "streetName": "",
+      "town": ""
+    },
+    "status": "Pending"
+  },
+  {
+    "bankCode": "044",
+    "firstName": "Tokunbo",
+    "lastName": "Lawrence",
+    "bvn": "22098890132",
+    "emailAddress": "athans4sure@yahoo.com",
+    "dob": "10-01-1992",
+    "phoneNumber": "07034456677",
+    "gender": "MALE",
+    "country": "NIGERIA",
+    "state": 1,
+    "lga": 4,
+    "address": {
+      "streetNumber": "22",
+      "streetName": "",
+      "town": ""
+    },
+    "status": "Draft"
+  },
+  {
+    "bankCode": "070",
+    "firstName": "Asuzu",
+    "lastName": "Adeoti",
+    "bvn": "22098890132",
+    "emailAddress": "ob.ade@yahoo.com",
+    "dob": "10-01-1992",
+    "phoneNumber": "08109021677",
+    "gender": "MALE",
+    "country": "NIGERIA",
+    "state": 1,
+    "lga": 4,
+    "address": {
+      "streetNumber": "22",
+      "streetName": "",
+      "town": ""
+    },
+    "status": "Pending"
+  },
+  {
+    "bankCode": "214",
+    "firstName": "Gbenga",
+    "lastName": "Emmanuel",
+    "bvn": "22098890132",
+    "emailAddress": "gbel09@gmail.com",
+    "dob": "10-01-1992",
+    "phoneNumber": "07030901921",
+    "gender": "MALE",
+    "country": "NIGERIA",
+    "state": 1,
+    "lga": 4,
+    "address": {
+      "streetNumber": "22",
+      "streetName": "",
+      "town": ""
+    },
+    "status": "Pending"
+  }
+]
